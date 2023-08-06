@@ -1,0 +1,9 @@
+{
+    "name": "spidertron-construction-qol",
+    "version": "0.1.0",
+    "title": "Spidertron Construction QOL",
+    "author": "vklein52",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod sets all spidertron logistic requests to 0 by default, to allow more precise control of a spidertron's inventory."
+  }
